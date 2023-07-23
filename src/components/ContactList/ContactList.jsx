@@ -13,7 +13,7 @@ export const ContactList = () => {
   );
 
   if (!filteredContacts?.length) {
-    return <NoContacts>No contacts added yet.</NoContacts>;
+    return <NoContacts>No contacts added yet</NoContacts>;
   }
 
   return (
