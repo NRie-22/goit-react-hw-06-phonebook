@@ -30,15 +30,12 @@ export const Button = styled.button`
   display: flex;
   justify-content: center;
   align-items: center;
-
   min-width: 120px;
   min-height: 30px;
   margin: 0;
-
   background-color: white;
   border: 2px black solid;
   border-radius: 5px;
-
   font-size: 16px;
   font-family: inherit;
 `;

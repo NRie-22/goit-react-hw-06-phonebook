@@ -7,8 +7,8 @@ export const MainContainer = styled.div`
   width: 600px;
   margin: 50px auto 0;
   padding: 25px;
-  background-color: #21d4fd;
-  background-image: linear-gradient(19deg, #21d4fd 0%, #b721ff 100%);
+  background-color: #889396;
+  /* background-image: linear-gradient(19deg, #21d4fd 0%, #b721ff 100%); */
   border-radius: 20px;
 `;
 
